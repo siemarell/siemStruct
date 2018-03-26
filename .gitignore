@@ -38,6 +38,7 @@ Temporary Items
 .idea/**/tasks.xml
 .idea/dictionaries
 .idea
+.target
 # Sensitive or high-churn files:
 .idea/**/dataSources/
 .idea/**/dataSources.ids
@@ -80,3 +81,5 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+project/
+target/
